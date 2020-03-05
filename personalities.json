@@ -1,0 +1,24 @@
+[
+    {
+        "name": "Stephanie",
+        "phrase-win": "I could never lose!",
+        "phrase-lose": "I - Impossible!"
+    },
+    {
+        "name": "Niki",
+        "phrase-win": "It was written in the star!",
+        "phrase-lose": "How rude!"
+    },
+    {
+        "name": "Joseph",
+        "phrase-win": "That was so fun! Lets play again!",
+        "phrase-lose": "I won't let you win next time!"
+    },
+    {
+        "name": "Christopher",
+        "phrase-win": "Don't feel too bad, I just the best!",
+        "phrase-lose": "Don't let your win go to your head, you got lucky"
+    },
+
+
+]
